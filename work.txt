@@ -24,6 +24,6 @@ twenty three
 twenty four
 twenty five
 26
-27
+twenty seven
 28
 twenty nine
